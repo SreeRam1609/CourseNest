@@ -114,5 +114,7 @@ nav{
     color: #fff;
 }
 
-
+.checkbox{
+    display: flex;
+}
 
